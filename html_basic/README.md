@@ -15,4 +15,11 @@ tweets.html – A simple page that includes:
 An embedded tweet using Twitter's embed code
 A link back to the homepage (index.html)
 
+4. Question 3 
+Each page follows a consistent layout using semantic HTML5 elements:
+- `<header>` with navigation links to all pages
+- `<main>` containing:
+  - `<article>` with the main page content (text, images, embedded tweet)
+  - `<aside>` with a placeholder for future comment threads
+- `<footer>` with author credit and an external link
 
