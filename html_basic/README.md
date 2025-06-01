@@ -10,5 +10,9 @@ Multiple headings (<h1>, <h2>, <h3>)
 At least four paragraphs describing ingredients, instructions, and tips
 A clickable image (ALX logo) that links to an external website
 
+3. Question 2
+tweets.html – A simple page that includes:
+An embedded tweet using Twitter's embed code
+A link back to the homepage (index.html)
 
 
